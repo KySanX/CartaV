@@ -6,13 +6,13 @@
 
 :root {
     --primario: #fff;
-    --fondo: #e8b7ee; 
-    --fondo-sobre: #c983c4; 
-    --solapa-sobre: #ce65c9; 
-    --cuerpo-sobre: #c34dc7; 
+    --fondo: #b78dc4; 
+    --fondo-sobre: #995eb1; 
+    --solapa-sobre: #b563e4; 
+    --cuerpo-sobre: #9a4dc7; 
     --sombra: rgba(0, 0, 0, 0.2);
     --texto: #003049; 
-    --corazon: #931aa3; 
+    --corazon: #711aa3; 
 }
 
 body {
